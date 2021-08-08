@@ -9,7 +9,7 @@ A simple guessing game where the user has 10 tries to answer a 3 digit combinati
 
 In game rules:
 
-I am thinking of a {}-digit number with no repeated digits. Try to guess what it is. Here are some clues:               
+I am thinking of a 3-digit number with no repeated digits. Try to guess what it is. Here are some clues:               
 
 When I say:     That means:    
 
